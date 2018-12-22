@@ -3,7 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://cms.dream623.com/posts/vip_rule/</loc>
+    <lastmod>2018-12-21T22:39:11+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cms.dream623.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cms.dream623.com/posts/</loc>
+    <lastmod>2018-12-21T22:39:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +25,7 @@
   
   <url>
     <loc>http://cms.dream623.com/</loc>
+    <lastmod>2018-12-21T22:39:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
